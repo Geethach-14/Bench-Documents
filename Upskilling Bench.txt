@@ -1,0 +1,8 @@
+Completed CAF Test
+Completed Certification on AZ-900
+completed Certification on AZ-104
+
+Git hub link for AZ-900 certification - https://github.com/Geethach-14/46208935_Chavata-Geethavani_2022_B06_June_.AZ-900-certificate_Rashmi
+Git hub link for AZ-104 certification - https://github.com/Geethach-14/AZ-104-Certificate
+
+ Presentation on C# and Angular - https://github.com/Geethach-14/Shopping-cart-case-study
